@@ -1,4 +1,4 @@
-# .Net-C-
+# .Net-C#
 Code repo for .Net C# related code samples
 
 =TimeUtils
