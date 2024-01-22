@@ -1,0 +1,6 @@
+C:\Users\BLUEMAGIC SE GAMING\Desktop\Portfolio\Code samples\DotNet-CSharp_old\CSharpUtilities\obj\Debug\net8.0\CSharpUtilities.csproj.AssemblyReference.cache
+C:\Users\BLUEMAGIC SE GAMING\Desktop\Portfolio\Code samples\DotNet-CSharp_old\CSharpUtilities\obj\Debug\net8.0\CSharpUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLUEMAGIC SE GAMING\Desktop\Portfolio\Code samples\DotNet-CSharp_old\CSharpUtilities\obj\Debug\net8.0\CSharpUtilities.AssemblyInfoInputs.cache
+C:\Users\BLUEMAGIC SE GAMING\Desktop\Portfolio\Code samples\DotNet-CSharp_old\CSharpUtilities\obj\Debug\net8.0\CSharpUtilities.AssemblyInfo.cs
+C:\Users\BLUEMAGIC SE GAMING\Desktop\Portfolio\Code samples\DotNet-CSharp_old\CSharpUtilities\obj\Debug\net8.0\CSharpUtilities.csproj.CoreCompileInputs.cache
+C:\Users\BLUEMAGIC SE GAMING\Desktop\Portfolio\Code samples\DotNet-CSharp_old\CSharpUtilities\obj\Debug\net8.0\CSharpUtilities.sourcelink.json
